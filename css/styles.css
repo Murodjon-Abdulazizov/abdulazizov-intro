@@ -111,6 +111,7 @@ img {
   text-decoration: none;
   color: #fff;
   display: inline-block;
+  font-weight: 400;
   border-radius: 41px;
   padding: 5px 15px;
   border: 1px solid #fff;
@@ -139,6 +140,10 @@ img {
   border-radius: 0px 0px 20px 20px;
 }
 
+
+.text-bold{
+  font-weight: 700;
+}
 
 /* SITE-HERO-LEFT */
 
@@ -206,6 +211,7 @@ img {
 }
 
 .button-link {
-  text-decoration: none;
+  display: inline-block;
+  font-weight: 500;
   color: red;
 }
